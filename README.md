@@ -18,6 +18,28 @@ This project analyzes the CarDekho used-car dataset using Python. It explores th
 - One-way ANOVA to test the effect of fuel type on selling price
 - K-Means clustering to group cars into market segments
 
+## Screenshots
+
+### Selling Price Distribution
+
+![Selling Price Distribution](screenshots/selling-price-distribution.png)
+
+### Selling Price vs Age
+
+![Selling Price vs Age](screenshots/selling-price-vs-age.png)
+
+### Fuel Type vs Selling Price
+
+![Fuel Type vs Selling Price](screenshots/fuel-type-vs-selling-price.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](screenshots/correlation-heatmap.png)
+
+### K-Means Price and Age Clusters
+
+![K-Means Price and Age Clusters](screenshots/price-age-clusters.png)
+
 ## Key Insights
 
 - Older cars and cars with higher kilometres driven generally fall into lower-price groups.
